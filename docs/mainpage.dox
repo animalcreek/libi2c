@@ -1,0 +1,14 @@
+/**
+ * @brief Main libi2c documentation page
+ * @author Mark Greer <mgreer@animalcreek.com>
+ * @file
+ */
+
+/**
+ * @mainpage libi2c - I2C Helper Library
+ *
+ * libi2c is an open source library with some helpful routines to make
+ * common Linux(tm) I2C operations easier.
+ *
+ * Source code is available at https://github.com/animalcreek/libi2c
+ */
